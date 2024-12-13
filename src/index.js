@@ -10,7 +10,7 @@ import ReactStarRating from './pages/ReactStarRating';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 let allroutes=createBrowserRouter([
   {
-    path:'/',
+    path:'projects',
     element: <Home/>
   },
   {
